@@ -1,9 +1,8 @@
 {
-  "name": "superagendador-front-end-test",
+  "name": "bolerplaite",
   "version": "1.0.0",
-  "description": "superagendador-front-end-test",
+  "description": "bolerplaite em react.js",
   "main": "index.js",
-  "repository": "https://github.com/thayllachristine/superagendador-front-end-test.git",
   "author": "Thaylla Christine",
   "scripts": {
     "start": "webpack-dev-server",
